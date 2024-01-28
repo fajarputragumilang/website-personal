@@ -1,2 +1,2 @@
-# website-personal
+# fajarpg.github.io
 web
